@@ -12,4 +12,3 @@ for emotion in good_emotions:
 
 if not good:
     print("oh")
- 
